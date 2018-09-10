@@ -7,4 +7,4 @@ e-stat(政府統計の総合窓口)から、「建築着工統計調査」「住
 ## 利用方法等
 エクセル加工用のデータ（CSVファイル)を作成。
 グラフ化の例として、堺市の区毎のグラフを表示。
-![output_1](images/plot.jpeg)
+![output_1](images/plot_jutakuchakko.jpeg)
